@@ -9,3 +9,7 @@ Run: run.sh
 Enter the first number, operator (+ - * /), then second number.
 The program prints Result: followed by the answer.
 
+## How to test it
+Run the activation command: ./check.sh
+There should be 5 passed tests expected, with an exit status of 0
+Check exit status: echo $?
