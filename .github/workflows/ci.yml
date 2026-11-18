@@ -1,7 +1,7 @@
 name: Calculator CI
 
 on:
-  tests:
+  push:
     branches: [main]
   pull_request:
 
